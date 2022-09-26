@@ -1,8 +1,3 @@
-James Wallace - DevOps Candidate
-sausages@gmail.com
-
-2022-09-26
-
 Scenario - Create and deploy a web service end-to-end
 
 The Challenge
